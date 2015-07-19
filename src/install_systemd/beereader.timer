@@ -1,0 +1,9 @@
+[Unit]
+Description=Run database value collection and send data mail.
+
+[Timer]
+OnBootSec=1min
+
+[Install]
+WantedBy=timers.target
+

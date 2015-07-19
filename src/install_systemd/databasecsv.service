@@ -1,0 +1,12 @@
+[Unit]
+Description=Get latest database entries and send them out
+Requires=postfix.service influxdb.service
+After=postfix.service influxdb.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/local/bin/databasedump.sh
+User=root
+
+[Install]
+WantedBy=multi-user.target

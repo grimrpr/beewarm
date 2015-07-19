@@ -1,0 +1,12 @@
+[Unit]
+Description=DuckDNS refresh service.
+Requires=bluetooth.service
+After=bluetooth.service
+
+[Service]
+WorkingDirectory=/home/benni/project/beehive-sensing/src/
+ExecStart=/usr/local/bin/beerun.sh
+User=benni
+
+[Install]
+WantedBy=multi-user.target

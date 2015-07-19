@@ -1,0 +1,2 @@
+create database mydb
+create retention policy myret on mydb duration 365d replication 1 default

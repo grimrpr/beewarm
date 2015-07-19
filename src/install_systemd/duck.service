@@ -1,0 +1,11 @@
+[Unit]
+Description=DuckDNS refresh service.
+Requires=bluetooth.service
+After=bluetooth.service
+
+[Service]
+ExecStart=/usr/local/bin/duck.sh
+User=benni
+
+[Install]
+WantedBy=multi-user.target

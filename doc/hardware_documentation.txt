@@ -1,0 +1,38 @@
+Hardware Datasheets and Documentation
+=====================================
+
+
+Temperature Sensor 'LM35DZ'
+---------------------------
+Datasheet http://www.ti.com/lit/ds/symlink/lm35.pdf
+http://www.ebay.de/itm/LM35DZ-Temperatur-Sensor-0-100-C-TO92-/310670122754?pt=LH_DefaultDomain_77&hash=item485561df02
+
+
+Arduino 'Nano (v. 3.0)'
+-----------------------
+http://www.arduino.cc/en/Main/ArduinoBoardNano
+
+
+RTC 'DS3231-AT24C32 I2C'
+------------------------
+Datasheet DS3231:
+http://datasheets.maximintegrated.com/en/ds/DS3231.pdf
+Shopping Link:
+http://www.ebay.de/itm/DS3231-AT24C32-IIC-module-precision-Real-time-clock-module-memory-module-Arduino-/400503978923?pt=LH_DefaultDomain_0&hash=item5d3fe5bbab
+
+
+Bluetooth Module 'HC-06' (Bluetooth 2.1)
+----------------------------------------
+
+Surfstick 'Huawei 303 (UMTS)'
+-----------------------------
+http://www.amazon.de/gp/product/B007R2WX86/ref=gno_cart_title_0?ie=UTF8&psc=1&smid=A3JWKAKR8XB7XF
+
+
+Akku Li-Ion 4200mAh
+-------------------
+http://www.ebay.de/itm/VANDER-Li-Ionen-Akku-Typ-18650-4200-mAh-3-7V-Neu-/201347656781?pt=LH_DefaultDomain_77&hash=item2ee1416c4d
+
+'Raspberry Pi 2'
+----------------
+Datasheet: http://www.adafruit.com/pdfs/raspberrypi2modelb.pdf

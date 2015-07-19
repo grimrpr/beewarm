@@ -1,0 +1,10 @@
+[Unit]
+Description=Run duckDNS update script
+
+[Timer]
+OnBootSec=1min
+OnUnitActiveSec=5min
+
+[Install]
+WantedBy=timers.target
+

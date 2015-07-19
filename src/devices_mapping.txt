@@ -1,0 +1,12 @@
+Arduino MAC address		device label	file path
+---------------------------------------------------------
+
+20:15:04:10:19:87		Raehmchen1	/dev/rfcomm0
+20:15:04:10:19:25		Raehmchen2	/dev/rfcomm1
+20:15:04:10:24:27		Raehmchen3	/dev/rfcomm2
+20:15:04:10:33:90		Raehmchen4	/dev/rfcomm3
+20:15:04:10:29:54		Raehmchen5	/dev/rfcomm4
+20:15:04:10:27:99		Raehmchen6	/dev/rfcomm5
+20:15:04:10:20:46		Raehmchen7	/dev/rfcomm6
+20:15:04:10:26:60		Raehmchen8	/dev/rfcomm7
+20:15:04:10:21:06		Box		/dev/rfcomm8
