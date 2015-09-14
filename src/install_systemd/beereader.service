@@ -1,5 +1,5 @@
 [Unit]
-Description=DuckDNS refresh service.
+Description=Check for available bluetooth devices and attempt connecting to them.
 Requires=bluetooth.service
 After=bluetooth.service
 
@@ -7,6 +7,8 @@ After=bluetooth.service
 WorkingDirectory=/home/benni/project/beehive-sensing/src/
 ExecStart=/usr/local/bin/beerun.sh
 User=benni
+WatchdogSec=3min
+Restart=always
 
 [Install]
 WantedBy=multi-user.target

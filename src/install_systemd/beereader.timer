@@ -1,5 +1,5 @@
 [Unit]
-Description=Run database value collection and send data mail.
+Description=Check for available BT devices and attempt connection.
 
 [Timer]
 OnBootSec=1min
